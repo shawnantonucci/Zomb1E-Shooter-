@@ -1,0 +1,1 @@
+global.weapon_pickup = false;
