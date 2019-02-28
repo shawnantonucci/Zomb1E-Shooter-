@@ -178,7 +178,7 @@
             "Key": "56d6485d-ade7-4bd1-bb0d-544ac5ab6031",
             "Value": {
                 "id": "f6182135-b640-4882-8001-977fb5825927",
-                "resourcePath": "sounds\\snd_explosion\\snd_explosion.yy",
+                "resourcePath": "sounds\\snd_die\\snd_die.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -220,22 +220,6 @@
                 "id": "b927a0ac-5592-4a59-ac9c-11797f48d384",
                 "resourcePath": "views\\6269a152-ff67-41a7-872f-c4f766975907.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "644b9c5c-4d70-43b1-b885-e88d12d6bbc3",
-            "Value": {
-                "id": "ca91e069-eb49-4738-aeb8-44335f436c6c",
-                "resourcePath": "sounds\\snd_hit_\\snd_hit_.yy",
-                "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "71e8e1ad-2444-4e3b-b24a-263e4f4d30ba",
-            "Value": {
-                "id": "effd1c24-602e-4730-9348-21db67a64577",
-                "resourcePath": "sounds\\snd_shoot_\\snd_shoot_.yy",
-                "resourceType": "GMSound"
             }
         },
         {
@@ -347,14 +331,6 @@
             "Value": {
                 "id": "e318ab85-6558-4aaa-bd8c-3e8569cd6da6",
                 "resourcePath": "views\\ab549335-c635-4e3e-b97f-d9b8fd84cf28.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "ade9caf5-b23a-4559-a124-a2937c749fc0",
-            "Value": {
-                "id": "c8914a51-f596-4ab6-9988-69c3a72f01a1",
-                "resourcePath": "views\\ade9caf5-b23a-4559-a124-a2937c749fc0.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -476,14 +452,6 @@
                 "id": "3836b7b9-74c1-472b-9d70-a0892fd12e1b",
                 "resourcePath": "sprites\\spr_pistol\\spr_pistol.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "ebd15b20-52ec-4bd3-a0d7-54e35f8240a2",
-            "Value": {
-                "id": "1f8c468b-dbe2-448f-a787-54856c9bf883",
-                "resourcePath": "sounds\\snd_explosion_\\snd_explosion_.yy",
-                "resourceType": "GMSound"
             }
         },
         {
