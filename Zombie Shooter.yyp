@@ -159,11 +159,11 @@
             }
         },
         {
-            "Key": "44889578-7438-4c69-b479-3bf0ef05607a",
+            "Key": "39ef4182-6953-40ab-92c4-bb8814aee719",
             "Value": {
-                "id": "a27b8771-3a15-4902-9bf6-96178c202fa3",
-                "resourcePath": "objects\\obj_gui\\obj_gui.yy",
-                "resourceType": "GMObject"
+                "id": "433213b9-e90c-40de-8b0d-d1d4dae60daa",
+                "resourcePath": "rooms\\room_title\\room_title.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "794e414e-6882-4c0a-95f4-593fc2270103",
+            "Value": {
+                "id": "beee5ad5-13b0-418e-a19b-ef1d15060914",
+                "resourcePath": "objects\\obj_gui\\obj_gui.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7984c634-275f-4091-b9a9-f5c2191b284d",
             "Value": {
                 "id": "fb9c1800-febe-4f5c-b883-46233bc5e751",
@@ -364,6 +372,22 @@
                 "id": "bb9a5e8a-ceb7-4bae-b327-aad5e3a6540c",
                 "resourcePath": "objects\\obj_enemy_spawner\\obj_enemy_spawner.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a644550d-21b6-4cd1-aaa9-bd839b480a34",
+            "Value": {
+                "id": "0f575d3e-83cc-4eaf-8388-a50c401e2683",
+                "resourcePath": "fonts\\font_title\\font_title.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "a7a02875-2b4d-429e-8209-2e54eaab9959",
+            "Value": {
+                "id": "1c9cb1a9-2e04-4f31-b0ac-c587d64f6b80",
+                "resourcePath": "sounds\\snd_music\\snd_music.yy",
+                "resourceType": "GMSound"
             }
         },
         {

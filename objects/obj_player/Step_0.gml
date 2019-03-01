@@ -103,7 +103,6 @@ if global.ammo >= 500
 	global.ammo = 500;
 }
 
-
 move(obj_solid);
 
 
