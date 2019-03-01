@@ -26,8 +26,6 @@ if (xaxis == 0 and yaxis == 0)
 xspeed = lengthdir_x(len, direction)
 yspeed = lengthdir_y(len, direction)
 
-move(obj_solid);
-
 //Animations
 
 if left or right or up or down

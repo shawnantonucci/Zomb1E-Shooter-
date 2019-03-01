@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "153d1b38-733a-4667-a6aa-0cf75ea16cd6",
+            "Value": {
+                "id": "a3bca37b-b708-49f9-b14d-b62f91feaf9f",
+                "resourcePath": "objects\\obj_enemy\\obj_enemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "15c10993-ddee-4ee4-89f5-5313d8428ccb",
             "Value": {
                 "id": "985a8532-f259-4ce7-8826-3032b8d728d4",
@@ -107,6 +115,14 @@
             "Value": {
                 "id": "1e57a269-eabd-4efd-a484-d0d095284c93",
                 "resourcePath": "sprites\\spr_ammo_box\\spr_ammo_box.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "219234e1-712e-47bf-9a16-c5310bf5192c",
+            "Value": {
+                "id": "7e9b4079-0984-4878-a935-c523ce3f5553",
+                "resourcePath": "sprites\\spr_enemymask\\spr_enemymask.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -283,14 +299,6 @@
             "Value": {
                 "id": "fb9c1800-febe-4f5c-b883-46233bc5e751",
                 "resourcePath": "sprites\\spr_enemy_bullet\\spr_enemy_bullet.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "79b16111-8749-4a48-91b6-c70f1e72a1cb",
-            "Value": {
-                "id": "08c302f5-77d5-4603-b976-a0389fbc811b",
-                "resourcePath": "sprites\\spr_zombie_cop_left\\spr_zombie_cop_left.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -575,11 +583,11 @@
             }
         },
         {
-            "Key": "f4c4528d-699e-4f95-8610-60f3e8354726",
+            "Key": "f501a386-4788-42ea-9ac3-0f30c6926b69",
             "Value": {
-                "id": "9e8fc4f3-d1b6-428a-8ab1-468eb709e4b7",
-                "resourcePath": "objects\\obj_enemy\\obj_enemy.yy",
-                "resourceType": "GMObject"
+                "id": "61408ccb-1ac2-4701-9acc-f25e4df36076",
+                "resourcePath": "sprites\\spr_zombie_cop_left\\spr_zombie_cop_left.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

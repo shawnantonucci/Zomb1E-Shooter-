@@ -2,7 +2,7 @@
 
 if (keyboard_check_pressed(vk_space) and room == room_title) {
 	room_goto(room_play);
-	//audio_stop_sound(a_title);
+	audio_stop_sound(snd_music);
 	audio_play_sound(snd_music, 10, true);
 }
 

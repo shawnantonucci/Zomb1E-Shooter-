@@ -2,8 +2,8 @@
 if (room == room_title) {
 	draw_set_halign(fa_center);
 	draw_set_font(font_title);
-	draw_text_colour(room_width / 2 + 4, 24 + 6, "ZomB1E Shooter", c_black, c_black, c_black, c_black, 1);
-	draw_text_colour(room_width / 2, 24, "ZomB1E Shooter", c_white, c_white, c_white, c_white, 1);
+	draw_text_colour(room_width / 2 + 4, 40 + 4, "Z0mBiE", c_black, c_black, c_black, c_black, 1);
+	draw_text_colour(room_width / 2, 40, "Z0mBiE", c_red, c_red, c_red, c_red, 1);
 	
 	draw_set_font(font_game);
 	draw_text_colour(room_width / 2 + 1, room_height - 48 + 1, "Press space to play", c_black, c_black, c_black, c_black, 0.7);
@@ -21,7 +21,7 @@ if (room != room_title) {
 	//draw a font and ammo amount
 	draw_set_font(font_game);
 	draw_set_color(c_black);
-	draw_text(1190,39,global.ammo);
+	draw_text(1203,39,global.ammo);
 	//draw players stamina
 	draw_healthbar(60,90,168,110,playerstamina,c_black,c_aqua,c_aqua,0,true,true);
 	draw_sprite(spr_stamina_bar,spr_stamina_bar,60,90);
