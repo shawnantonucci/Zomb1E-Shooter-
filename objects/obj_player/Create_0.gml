@@ -1,13 +1,13 @@
 
 direction = 0;
 //speed
-spd = 4;
+spd = 0;
 //axis position
 xaxis = 0;
 yaxis = 0;
 //horizontal and vertical speed
-hspd = 0;
-vspd = 0;
+xspeed = 0;
+yspeed = 0;
 //length for our calculations
 len = 0;
 //animation set to 0 which is off

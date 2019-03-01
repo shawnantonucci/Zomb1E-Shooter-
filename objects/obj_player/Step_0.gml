@@ -20,11 +20,13 @@ if (xaxis == 0 and yaxis == 0)
 	len = spd;
 }
 
-x += hspd;
-y += vspd;
+//x += hspd;
+//y += vspd;
 
-hspd = lengthdir_x(len, direction)
-vspd = lengthdir_y(len, direction)
+xspeed = lengthdir_x(len, direction)
+yspeed = lengthdir_y(len, direction)
+
+move(obj_solid);
 
 //Animations
 
@@ -102,7 +104,7 @@ if global.ammo >= 500
 }
 
 
-
+move(obj_solid);
 
 
 

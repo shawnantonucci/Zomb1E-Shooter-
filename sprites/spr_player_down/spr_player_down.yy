@@ -100,7 +100,7 @@
     ],
     "origin": 9,
     "originLocked": false,
-    "playbackSpeed": 5,
+    "playbackSpeed": 6,
     "playbackSpeedType": 0,
     "premultiplyAlpha": false,
     "sepmasks": false,
@@ -110,5 +110,5 @@
     "type": 0,
     "width": 32,
     "xorig": 14,
-    "yorig": 38
+    "yorig": 44
 }

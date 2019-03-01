@@ -26,7 +26,8 @@ if direction > 90 and direction < 270
 }
 
 //check if weapon is behind or in front of player
-if direction < 360 and direction > 180
+
+if direction > 170 and direction < 360 or direction > 0 and direction < 60
 {
 	depth = -y-5;
 } else {
