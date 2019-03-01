@@ -5,9 +5,9 @@ if place_meeting(x,y,obj_weapon_box)
 	
 	if pickup
 	{
-		global.weapon = choose(0,1,2);
+		global.weapon = choose(1,2);
 		
-		with other
+		with (other)
 		{
 			instance_destroy();
 		}

@@ -39,20 +39,34 @@ if left or right or up or down
 
 //point at mouse position
 direction = point_direction(x,y,mouse_x,mouse_y);
-
+/*
 if direction > 90 and direction < 269
 {
 	image_xscale = -1;
 } else {
 	image_xscale = 1;
 }
-
-if direction < 360 and direction > 180
+*/
+if (direction < 320 and direction > 210)
 {
 	sprite_index = spr_player_down;
-} else {
+}
+
+if (direction > 0 and direction < 60 or direction < 360 and direction > 320) 
+{
+	sprite_index = spr_player_right;
+}
+
+if (direction > 150 and direction < 210) 
+{
+	sprite_index = spr_player_left;
+}
+
+if (direction < 150 and direction > 60)
+{
 	sprite_index = spr_player_up;
 }
+
 
 //z-axis position
 depth = -y;
