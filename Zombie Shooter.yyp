@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0bc5d810-ed14-451d-9d18-24dea1d31b99",
+            "Value": {
+                "id": "5b5aeda2-6ca3-43e7-8f2f-76ea3d57755e",
+                "resourcePath": "views\\0bc5d810-ed14-451d-9d18-24dea1d31b99.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "0e050079-8a9a-48b2-8a0d-0b36b64b1992",
             "Value": {
                 "id": "b09a6d74-1a98-4a01-b9d7-2571aba3c4e3",
@@ -59,6 +67,14 @@
             "Value": {
                 "id": "52b7c615-4486-4c13-95f3-54a94b6d8ae8",
                 "resourcePath": "sprites\\spr_ammo_bar\\spr_ammo_bar.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "14b8e4b4-2712-4680-98e1-2615d0e832f4",
+            "Value": {
+                "id": "3dcf25cf-89e7-4452-931a-6696ac43d0f3",
+                "resourcePath": "sprites\\spr_hospital_walls\\spr_hospital_walls.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -108,6 +124,14 @@
                 "id": "f74b4add-5f11-46ff-aa0a-b373bea79c96",
                 "resourcePath": "sprites\\spr_bullet\\spr_bullet.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1c02c69a-50ca-4e7a-936e-8cd90ea8668e",
+            "Value": {
+                "id": "42cb1700-1346-4c83-94ba-70b471d6d4b8",
+                "resourcePath": "tilesets\\tile_hospital_objects2\\tile_hospital_objects2.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -179,6 +203,30 @@
             "Value": {
                 "id": "433213b9-e90c-40de-8b0d-d1d4dae60daa",
                 "resourcePath": "rooms\\room_title\\room_title.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "3ee83987-ebca-4a3a-8eb4-2a692841af15",
+            "Value": {
+                "id": "8eb0b697-28e5-4bcb-a074-39809401b191",
+                "resourcePath": "sprites\\spr_lab_objects\\spr_lab_objects.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3f2a59d7-ca27-42f8-88cb-0c4aaca42abb",
+            "Value": {
+                "id": "cf980f82-fbe9-46b1-aa1c-fbf449fbb999",
+                "resourcePath": "views\\3f2a59d7-ca27-42f8-88cb-0c4aaca42abb.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3f42991d-c842-41b7-8f3f-d1ad46038192",
+            "Value": {
+                "id": "e9c6a1a2-046b-4b77-b2be-f30fff536dbc",
+                "resourcePath": "rooms\\room_hospital\\room_hospital.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -263,10 +311,50 @@
             }
         },
         {
+            "Key": "694c11f2-94eb-43d5-98df-812bbae15bd4",
+            "Value": {
+                "id": "0b8b0436-aba6-4d86-8a2a-0c3d267276bd",
+                "resourcePath": "tilesets\\tile_lab_walls\\tile_lab_walls.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "69abf16f-6270-44ad-8576-079b87f9f1a5",
+            "Value": {
+                "id": "d6fed7d2-3e6a-43b5-aef0-b9021bf58765",
+                "resourcePath": "sprites\\spr_lab_floor\\spr_lab_floor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6b967d96-b2da-4b11-95c2-c4f1dc673260",
+            "Value": {
+                "id": "32b8d223-e6e2-49dc-983e-1363d257dfa1",
+                "resourcePath": "tilesets\\tile_hospital_objects\\tile_hospital_objects.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "6e6c41d9-fea1-4d2b-87bd-b77b27fd39ea",
+            "Value": {
+                "id": "d4f68785-28d0-47c2-8a8e-757618749d79",
+                "resourcePath": "tilesets\\tile_hospital_walls\\tile_hospital_walls.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "6ec57d4f-0576-4a88-9647-43929d08102c",
             "Value": {
                 "id": "d49854e1-9e82-46a4-916b-d137a112f937",
                 "resourcePath": "sprites\\spr_zombie_cop_right\\spr_zombie_cop_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6fb1a452-4018-4e18-ada6-437d7c036553",
+            "Value": {
+                "id": "a586fb4b-59de-4f8a-9d3d-a54ed1b95e27",
+                "resourcePath": "sprites\\spr_hospital_floor\\spr_hospital_floor.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -276,6 +364,14 @@
                 "id": "c61c90bf-1872-4a87-94f3-21c7ac394323",
                 "resourcePath": "views\\7470bed8-595e-4e69-9739-ce2cca7b2b17.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "747cf9a0-0421-4410-81ec-7c1dd7ebb96f",
+            "Value": {
+                "id": "81a8cf2c-b37b-4573-918a-e58454ad0c4a",
+                "resourcePath": "sprites\\spr_hospital_objects\\spr_hospital_objects.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -335,6 +431,14 @@
             }
         },
         {
+            "Key": "88dad354-dbf6-46e9-bda2-22cabbea8ec1",
+            "Value": {
+                "id": "a1c97725-1ece-42da-9df9-03c046978742",
+                "resourcePath": "views\\88dad354-dbf6-46e9-bda2-22cabbea8ec1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "8bfba23e-cef2-47c6-8100-0e746125a13e",
             "Value": {
                 "id": "2676b2fd-390b-471d-99be-9731b07be3c2",
@@ -355,6 +459,22 @@
             "Value": {
                 "id": "27e6a246-9fdd-494b-a1b3-d11daaed913b",
                 "resourcePath": "sprites\\spr_health_bar\\spr_health_bar.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "931ddc10-c18c-44ed-bd39-4940ffbbbfb3",
+            "Value": {
+                "id": "c334d429-3fa5-438e-a6d5-cb210d6d5367",
+                "resourcePath": "tilesets\\tile_lab_floor\\tile_lab_floor.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "9e3e38d6-f532-410b-9560-bfd283ce87ef",
+            "Value": {
+                "id": "36b97faf-62bb-41eb-9328-16448834a782",
+                "resourcePath": "sprites\\spr_hospital_objects2\\spr_hospital_objects2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -403,6 +523,14 @@
             "Value": {
                 "id": "824c2bd7-51cf-46e8-a6d5-4330478a6036",
                 "resourcePath": "sprites\\spr_player_up\\spr_player_up.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "aae156ec-d225-40a5-91c0-c5a653082556",
+            "Value": {
+                "id": "102aeb36-2d79-4a0e-ace0-c63649030006",
+                "resourcePath": "sprites\\spr_lab_walls\\spr_lab_walls.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -487,6 +615,14 @@
             }
         },
         {
+            "Key": "c7692d38-39a5-4b35-830c-1277f5bbb6d6",
+            "Value": {
+                "id": "612d864c-80f0-4499-b6d4-44fe083ecc3f",
+                "resourcePath": "views\\c7692d38-39a5-4b35-830c-1277f5bbb6d6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "cc6691f9-c67e-4081-98dc-f298da2d6b3c",
             "Value": {
                 "id": "4beac65a-e0c4-48d6-b9f4-cbf3df180eaf",
@@ -527,6 +663,14 @@
             }
         },
         {
+            "Key": "da316154-85d7-4e2b-bcce-298cd3a05dc9",
+            "Value": {
+                "id": "eb4e576d-90fc-47f9-a765-5f13119963d0",
+                "resourcePath": "tilesets\\tile_lab_objects\\tile_lab_objects.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "db157289-20db-44f0-b688-e8b85e7ff1aa",
             "Value": {
                 "id": "2e86af94-3bf4-4930-8d58-41dbcf936232",
@@ -540,6 +684,14 @@
                 "id": "a01b3e82-f430-48e5-9cd3-43b678f776d1",
                 "resourcePath": "objects\\obj_health_box\\obj_health_box.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e9d11267-ff9b-4fea-b958-6685016ec75d",
+            "Value": {
+                "id": "a90494aa-c431-4c36-8634-7936ad01fb8f",
+                "resourcePath": "tilesets\\tile_hospital_floor\\tile_hospital_floor.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
